@@ -1,5 +1,7 @@
 # autohat-configurator
 
+A resin application that allows to configure an autoHAT for a specific device type testing
+
 ## License
 
 Copyright 2017 Resinio Ltd.
