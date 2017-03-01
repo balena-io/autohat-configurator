@@ -1,6 +1,6 @@
 # autohat-configurator
 
-A resin application that allows to configure an autoHAT for a specific device type testing
+A resin application that allows to configure an autohat for a specific device type testing
 
 ## License
 
